@@ -1,7 +1,7 @@
 <html>
 <body>
  <style>
- h1 {text-align: center;}
+ h1 {text-align: middle;}
   </style>
 <body style="background-color:powderblue;">
 <h2>Hello World!</h2>
