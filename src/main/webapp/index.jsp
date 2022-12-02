@@ -6,6 +6,7 @@
 <body style="background-color:powderblue;">
 <h2>Hello World!</h2>
 <h3>App deployed in Tomcat.</h3>
+ <h3>App containerised</h3>
 <h1>App working!</h1>
 </body>
 </html>
